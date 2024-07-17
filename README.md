@@ -45,5 +45,7 @@ flutter run
 
 Screenshots
 
-![img](assets/Screenshot_1721240417.png)
-![img](assets/Screenshot_1721240423.png)
+<div style="display:flex; justify-content:space-around;">
+    <img src="assets/Screenshot_1721240417.png" alt="Screenshot 1" width="45%">
+    <img src="assets/Screenshot_1721240423.png" alt="Screenshot 2" width="45%">
+</div>
