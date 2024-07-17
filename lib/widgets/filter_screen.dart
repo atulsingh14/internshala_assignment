@@ -48,7 +48,7 @@ class FiltersScreen extends StatelessWidget {
         ),
       ),
       body: Padding(
-        padding: const EdgeInsets.all(16.0),
+        padding: const EdgeInsets.all(0.0),
         child: Container(
           color: Colors.white,
           child: Column(

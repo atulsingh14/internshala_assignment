@@ -40,7 +40,10 @@ flutter pub get
 4. Run the project:
 
 ```bash
-    flutter run
+flutter run
 ```
 
 Screenshots
+
+![img](assets/Screenshot_1721240417.png)
+![img](assets/Screenshot_1721240423.png)
