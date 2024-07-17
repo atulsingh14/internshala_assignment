@@ -1,16 +1,46 @@
-# internshala_app
+# Internshala Assignment
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This repository contains the code for an assignment project related to Internshala Internship.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+-   Internship Listings: Displays a list of available internships.
+-   Search Functionality: Allows users to search for internships by keywords.
+-   Internship Details: Provides detailed information about each internship.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-   Flutter
+-   Dart
+
+## Installation
+
+Follow these steps to run the project locally:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/atulsingh14/internshala_assignment.git
+```
+
+2. Navigate into the project directory:
+
+```bash
+cd internshala_assignment
+```
+
+3. Install dependencies:
+
+```bash
+flutter pub get
+```
+
+4. Run the project:
+
+```bash
+    flutter run
+```
+
+Screenshots
